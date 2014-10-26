@@ -1,6 +1,13 @@
 # Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+markdown:            kramdown
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  use_coderay:    false
+
+pygments:         true
 
 # Permalinks
 #
@@ -24,6 +31,9 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+github:
+  repo:           https://github.com/parsedcorpora/parsedcorpora.github.io
 
 prose:
   ignore:
