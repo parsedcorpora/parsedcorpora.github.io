@@ -24,3 +24,51 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+prose:
+  ignore:
+    - /\..*
+    - /_config.yml
+    - /atom.xml
+    - /LICENSE.md
+    - /_layouts
+    - /_includes
+    - /public
+    - /blog
+    - /README.md
+    - /CNAME
+    - /404.html
+    - /.editorconfig
+    - /.gitignore
+    - /.gitmodules
+  metadata:
+    "":
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
