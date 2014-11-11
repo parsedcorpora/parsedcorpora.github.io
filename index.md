@@ -30,7 +30,7 @@ published: true
 #French
 [Modéliser le changement: les voies du français](http://www.voies.uottawa.ca/corpus_pg_en.html)
 
-[Syntactic Reference Corpus of Medieval French (SRCMF)](srcmf.org)
+[Syntactic Reference Corpus of Medieval French (SRCMF)](http://srcmf.org)
 
 #Irish
 [Parsed Old and Middle Irish Corpus (POMIC)](http://www.dias.ie/index.php?option=com_content&amp;view=article&amp;id=6586&amp;Itemid=224&amp;lang=en)
