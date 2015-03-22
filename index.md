@@ -12,6 +12,7 @@ as to serve as a forum for collaboration and communication.
 ## Entry points
 
 - [A list of parsed corpora](corpora)
+- [Ongoing projects](projects)
 
 ## How to edit
 
