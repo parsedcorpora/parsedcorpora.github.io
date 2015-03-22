@@ -9,9 +9,9 @@ site is run as a wiki which anyone can edit.  It aims to collect
 information and resources which may be useful for researchers, as well
 as to serve as a forum for collaboration and communication.
 
-## Pages
+## Entry points
 
-- [A list of parsed corpora](corpora.html)
+- [A list of parsed corpora](corpora)
 
 ## How to edit
 
@@ -28,3 +28,13 @@ as to serve as a forum for collaboration and communication.
 
 - Use the “new file” button on
   [this page](http://prose.io/#parsedcorpora/parsedcorpora.github.io).
+  Create a file in markdown format (`.md`)
+- In order to link to your new file on existing pages, use the name of
+  the file without the `.md` extension.
+
+## Discussion
+
+In lieu of forum software, we can use the
+[Github issues for this repository](https://github.com/parsedcorpora/parsedcorpora.github.io/issues).
+These support email notifications, @mentioning other users by name,
+subscribing to threads of interest, and other advanced features.
